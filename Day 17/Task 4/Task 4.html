@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .light {
+            background: white;
+            color: black;
+        }
+
+        .dark {
+            background: rgb(211, 111, 111);
+            color: white;
+        }
+    </style>
+</head>
+
+<body>
+    <button id="themeToggle">Toggle Theme</button>
+    <div id="main">Some content</div>
+    <script>
+        // Light / Dark Theme Toggle
+        // Create a button that toggles between light and dark themes using classList.
+        document.getElementById("themeToggle").addEventListener("click" , ()=>{
+            const v=document.getElementById('main');
+            v.classList.toggle('dark')
+        })
+        document.getElementById("themeToggle").addEventListener("click" , ()=>{
+            const v=document.body;
+            v.classList.toggle('dark')
+        })
+    </script>
+</body>
+
+</html>
