@@ -1,9 +1,4 @@
 # Full-Stack Developer Internship 🚀
-
-**Repository:** Full-Stack-Developer-Intership  
-**Owner:** [05Kamali](https://github.com/05Kamali)  
-**Visibility:** Public  
-
 ---
 
 ## 📌 Overview
@@ -30,12 +25,6 @@ This repository helps to:
 - DOM Manipulation  
 - Event Handling  
 - Interactive UI Development  
-
-### 🧰 Tools
-- Git & GitHub  
-- VS Code  
-- Browser Developer Tools  
-
 ---
 
 ## 📚 Key Projects & Tasks
@@ -54,14 +43,6 @@ This repository helps to:
 
 ### 🧠 DOM Challenges (Day 14)
 - Practice on DOM selection, manipulation, and events  
-
----
-
-## 🎯 Learning Outcomes
-- Strong foundation in **frontend web development**
-- Hands-on experience with **JavaScript logic**
-- Improved **problem-solving & debugging skills**
-- Better understanding of **project structure & version control**
 
 ---
 
@@ -85,7 +66,4 @@ Suggestions and feedback are always welcome!
 🔗 GitHub: [05Kamali](https://github.com/05Kamali)
 
 ---
-
-⭐ If you find this repository helpful, consider giving it a star!
-
 
